@@ -2,6 +2,7 @@ vue-picture-input
 =============
 
 Mobile-friendly picture file input Vue.js component with image preview, drag and drop, EXIF orientation, and more.
+With aditional methods for changing image placeholder with previous image.
 
 ![Picture Input Demo](http://i.giphy.com/3o84UfcY1QV7Unrtba.gif)
 
@@ -11,12 +12,12 @@ Mobile-friendly picture file input Vue.js component with image preview, drag and
 ### npm
 
 ``` sh
-npm install --save vue-picture-input
+npm install --save vmaspublicidad/vue-picture-input
 ```
 ### yarn
 
 ``` sh
-yarn add vue-picture-input
+yarn add vmaspublicidad/vue-picture-input
 ```
 
 ## Usage
@@ -99,11 +100,6 @@ You can also use it directly in the browser through [unpkg's CDN](https://unpkg.
 </body>
 </html>
 ```
-
-## Example project
-
-Try it on CodeSandbox: https://codesandbox.io/s/github/alessiomaffeis/vue-picture-input-example
-
 
 ## Props
 
